@@ -1,0 +1,13 @@
+------[                  Tue Jun  4 16:27:18 2019                  ]------
+------[  Grading Commit: 7ae0fb366ecd2bac9287613e7a66dc239dd3e97d  ]------
+--[ swap4: Tests swapping by initializing an array larger than physical memory and reading through it - does not dirty the pages again ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+success
+
+--[ swap5: Tests swapping by initializing an array larger than physical memory and reading through it - dirties the pages again after initialization ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+success
+
+

@@ -1,0 +1,18 @@
+------[                  Fri Apr 26 14:40:05 2019                  ]------
+------[  Grading Commit: 7c99db847944830dd7ce0a32176a746fdd4c8433  ]------
+PASS : ALARM - Tests waitUntil to ensure it waits at least minimum amount of time
+PASS : JOIN - Tests join on completed child thread
+PASS : CV2 (1) - Strict interlock test. Ping and pong threads alternate.
+PASS : CV2 (2) - Producer creates list [1,2,3,4,5], consumer pops first element until list is empty.
+PASS : SLEEPFOR - Main thread will call sleepFor on a Condition2, then it should hit the time out and wake up.
+PASS : SQUADMATCH - Create one thread for each ability type (thief, warrior, wizard). Wait for all threads to exit after a squad is created.
+
+------[                  Fri Apr 26 22:10:30 2019                  ]------
+------[  Grading Commit: 7166b2304a3191c120049536b2417d9947c72ef3  ]------
+PASS : ALARM - Tests waitUntil to ensure it waits at least minimum amount of time
+PASS : JOIN - Tests join on completed child thread
+PASS : CV2 (1) - Strict interlock test. Ping and pong threads alternate.
+PASS : CV2 (2) - Producer creates list [1,2,3,4,5], consumer pops first element until list is empty.
+PASS : SLEEPFOR - Main thread will call sleepFor on a Condition2, then it should hit the time out and wake up.
+PASS : SQUADMATCH - Create one thread for each ability type (thief, warrior, wizard). Wait for all threads to exit after a squad is created.
+

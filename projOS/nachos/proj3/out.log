@@ -1,0 +1,13 @@
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+*** awesome thread 0 looped 0 times
+*** awesome thread 1 looped 0 times
+*** awesome thread 0 looped 1 times
+*** awesome thread 1 looped 1 times
+*** awesome thread 0 looped 2 times
+*** awesome thread 1 looped 2 times
+*** awesome thread 0 looped 3 times
+*** awesome thread 1 looped 3 times
+*** awesome thread 0 looped 4 times
+*** awesome thread 1 looped 4 times
+Testing the console device. Typed characters
+will be echoed until q is typed.

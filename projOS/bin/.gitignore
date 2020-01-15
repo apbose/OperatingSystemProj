@@ -1,0 +1,6 @@
+nachos/proj*/nachos
+nachos/test/*.o
+*.classpath
+*.project
+*.class
+/nachos/

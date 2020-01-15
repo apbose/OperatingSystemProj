@@ -1,0 +1,28 @@
+------[                  Sun May 12 21:00:03 2019                  ]------
+------[  Grading Commit: a9143147897f4b33b1630d4d5844969c945e7b6a  ]------
+
+------[                  Sun May 12 21:10:03 2019                  ]------
+------[  Grading Commit: 9df7d09cb7c7006d1e3fc57da7b377571535402b  ]------
+PASS : Test write1.c
+PASS : Test write4.c
+PASS : Test write10.c
+PASS : Test exec1.c
+PASS : Test join1.c
+PASS : Test execarg1.c
+PASS : Test except1.c
+PASS : Test exit1.c
+
+------[                  Tue May 14 23:10:46 2019                  ]------
+------[  Grading Commit: 930f3b29d33345474cbc8820ad2d6db73475845c  ]------
+
+------[                  Wed May 15 00:40:04 2019                  ]------
+------[  Grading Commit: 26a7f566a022abd6d6d14081432e2d6c3307ed71  ]------
+PASS : Test write1.c
+PASS : Test write4.c
+PASS : Test write10.c
+PASS : Test exec1.c
+PASS : Test join1.c
+PASS : Test execarg1.c
+PASS : Test except1.c
+PASS : Test exit1.c
+

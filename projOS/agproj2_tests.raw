@@ -1,0 +1,652 @@
+------[                  Sun May 12 21:00:03 2019                  ]------
+------[  Grading Commit: a9143147897f4b33b1630d4d5844969c945e7b6a  ]------
+
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:494: error: variable parent is already defined in class KThread
+	private KThread parent = null;
+	                ^
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:496: error: variable flag is already defined in class KThread
+	public boolean flag = false;
+	               ^
+Note: /home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/Alarm2.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+2 errors
+
+
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:494: error: variable parent is already defined in class KThread
+	private KThread parent = null;
+	                ^
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:496: error: variable flag is already defined in class KThread
+	public boolean flag = false;
+	               ^
+2 errors
+
+
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:494: error: variable parent is already defined in class KThread
+	private KThread parent = null;
+	                ^
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.30983/agproj2/run/h6gupta_apbose_mbilkhu/nachos/threads/KThread.java:496: error: variable flag is already defined in class KThread
+	public boolean flag = false;
+	               ^
+2 errors
+
+
+------[                  Sun May 12 21:10:03 2019                  ]------
+------[  Grading Commit: 9df7d09cb7c7006d1e3fc57da7b377571535402b  ]------
+--[ Test write1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+roses are red
+violets are blue
+I love Nachos
+and so do you
+
+
+success
+
+--[ Test write4.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+Test: Sending string "<3 nachos!
+.
+" to stdin.
+
+-> Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+Reading SynchConsole
+<3 nachos!
+-> Reading SynchConsole
+Reading SynchConsole
+
+success
+
+--[ Test write10.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+creating write.out...
+Name:- write.out
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 59 bytes at a time...
+...passed (wrote 59 bytes)
+closing 2...
+In Close 2
+Closing write.out
+opening write.out...
+Name:- write.out
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+Reading write.out
+...success
+validating write.out...
+...passed
+closing 2...
+In Close 2
+Closing write.out
+creating write.out...
+Name:- write.out
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 8 bytes at a time...
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 3 bytes)
+closing 2...
+In Close 2
+Closing write.out
+opening write.out...
+Name:- write.out
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+Reading write.out
+...success
+validating write.out...
+...passed
+closing 2...
+In Close 2
+Closing write.out
+creating write.out...
+Name:- write.out
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 1 bytes at a time...
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+closing 2...
+In Close 2
+Closing write.out
+opening write.out...
+Name:- write.out
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+Reading write.out
+...success
+validating write.out...
+...passed
+closing 2...
+In Close 2
+Closing write.out
+creating binary.out...
+Name:- binary.out
+File: binary.out created successfully
+...passed (fd = 2)
+writing 4096 bytes to file, 4096 bytes at a time...
+...passed (wrote 4096 bytes)
+closing 2...
+In Close 2
+Closing binary.out
+opening binary.out...
+Name:- binary.out
+File: binary.out opened successfully
+...passed (fd = 2)
+reading binary.out into buffer...
+Reading binary.out
+read data ...
+read data ...
+read data ...
+read data ...
+...success
+validating binary.out...
+...passed
+closing 2...
+In Close 2
+Closing binary.out
+creating binary.out...
+Name:- binary.out
+File: binary.out created successfully
+...passed (fd = 2)
+writing 4096 bytes to file, 128 bytes at a time...
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+closing 2...
+In Close 2
+Closing binary.out
+opening binary.out...
+Name:- binary.out
+File: binary.out opened successfully
+...passed (fd = 2)
+reading binary.out into buffer...
+Reading binary.out
+read data ...
+read data ...
+read data ...
+read data ...
+...success
+validating binary.out...
+...passed
+closing 2...
+In Close 2
+Closing binary.out
+writing to an invalid fd (-10)...
+...passed (r = -1)
+writing to an invalid fd (256)...
+...passed (r = -1)
+writing to an unopened fd (8)...
+...passed (r = -1)
+creating bad.out...
+Name:- bad.out
+File: bad.out created successfully
+...passed (fd = 2)
+writing count = 0 bytes...
+...passed
+writing with an invalid buffer (should not crash, only return an error)...
+...passed (r = -1)
+writing with an invalid count (should not crash, only return an error)...
+...passed (r = -1)
+writing with a buffer that extends beyond the end of the
+address space.  write should return an error.
+...passed (r = -1)
+
+success
+
+--[ Test exec1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+ParentChildGrader: Parent exited with status 1
+ParentChildGrader: Child exited with status 123
+
+success
+
+--[ Test join1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+execing exit1.coff...
+...passed
+joining 1...
+...passed (status from child = 123)
+
+success
+
+--[ Test execarg1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+childargc: 5
+childargv: 13280 (0x33e0)
+
+&childargv[0]: 13280 (0x33e0)
+&childargv[1]: 13284 (0x33e4)
+&childargv[2]: 13288 (0x33e8)
+&childargv[3]: 13292 (0x33ec)
+&childargv[4]: 13296 (0x33f0)
+childargv[0]: 3072 (0xc00)
+childargv[1]: 3084 (0xc0c)
+childargv[2]: 3100 (0xc1c)
+childargv[3]: 3120 (0xc30)
+childargv[4]: 3136 (0xc40)
+exec succeded, child pid 1
+
+success
+
+--[ Test except1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+roses are red
+violets are blue
+I love Nachos
+and so do you
+
+
+success
+
+--[ Test exit1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+success
+
+
+------[                  Tue May 14 23:10:46 2019                  ]------
+------[  Grading Commit: 930f3b29d33345474cbc8820ad2d6db73475845c  ]------
+
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.17819/agproj2/run/h6gupta_apbose_mbilkhu/nachos/vm/VMProcess.java:49: error: cannot find symbol
+		super.unloadSections();
+		     ^
+  symbol: method unloadSections()
+1 error
+
+
+/home/linux/ieng6/cs120sp19/public/autograder.dest/run_autograder.17819/agproj2/run/h6gupta_apbose_mbilkhu/nachos/vm/VMProcess.java:49: error: cannot find symbol
+		super.unloadSections();
+		     ^
+  symbol: method unloadSections()
+1 error
+
+
+------[                  Wed May 15 00:40:04 2019                  ]------
+------[  Grading Commit: 26a7f566a022abd6d6d14081432e2d6c3307ed71  ]------
+--[ Test write1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+roses are red
+violets are blue
+I love Nachos
+and so do you
+
+
+success
+
+--[ Test write4.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+Test: Sending string "<3 nachos!
+.
+" to stdin.
+
+-> <3 nachos!
+-> 
+success
+
+--[ Test write10.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+creating write.out...
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 59 bytes at a time...
+...passed (wrote 59 bytes)
+closing 2...
+Closing write.out
+opening write.out...
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+...success
+validating write.out...
+...passed
+closing 2...
+Closing write.out
+creating write.out...
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 8 bytes at a time...
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 8 bytes)
+...passed (wrote 3 bytes)
+closing 2...
+Closing write.out
+opening write.out...
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+...success
+validating write.out...
+...passed
+closing 2...
+Closing write.out
+creating write.out...
+File: write.out created successfully
+...passed (fd = 2)
+writing 59 bytes to file, 1 bytes at a time...
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+...passed (wrote 1 bytes)
+closing 2...
+Closing write.out
+opening write.out...
+File: write.out opened successfully
+...passed (fd = 2)
+reading write.out into buffer...
+...success
+validating write.out...
+...passed
+closing 2...
+Closing write.out
+creating binary.out...
+File: binary.out created successfully
+...passed (fd = 2)
+writing 4096 bytes to file, 4096 bytes at a time...
+...passed (wrote 4096 bytes)
+closing 2...
+Closing binary.out
+opening binary.out...
+File: binary.out opened successfully
+...passed (fd = 2)
+reading binary.out into buffer...
+read data ...
+read data ...
+read data ...
+read data ...
+...success
+validating binary.out...
+...passed
+closing 2...
+Closing binary.out
+creating binary.out...
+File: binary.out created successfully
+...passed (fd = 2)
+writing 4096 bytes to file, 128 bytes at a time...
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+...passed (wrote 128 bytes)
+closing 2...
+Closing binary.out
+opening binary.out...
+File: binary.out opened successfully
+...passed (fd = 2)
+reading binary.out into buffer...
+read data ...
+read data ...
+read data ...
+read data ...
+...success
+validating binary.out...
+...passed
+closing 2...
+Closing binary.out
+writing to an invalid fd (-10)...
+...passed (r = -1)
+writing to an invalid fd (256)...
+...passed (r = -1)
+writing to an unopened fd (8)...
+...passed (r = -1)
+creating bad.out...
+File: bad.out created successfully
+...passed (fd = 2)
+writing count = 0 bytes...
+...passed
+writing with an invalid buffer (should not crash, only return an error)...
+...passed (r = -1)
+writing with an invalid count (should not crash, only return an error)...
+...passed (r = -1)
+writing with a buffer that extends beyond the end of the
+address space.  write should return an error.
+...passed (r = -1)
+
+success
+
+--[ Test exec1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+ParentChildGrader: Parent exited with status 1
+ParentChildGrader: Child exited with status 123
+
+success
+
+--[ Test join1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+execing exit1.coff...
+...passed
+joining 1...
+...passed (status from child = 123)
+
+success
+
+--[ Test execarg1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+childargc: 5
+childargv: 13280 (0x33e0)
+
+&childargv[0]: 13280 (0x33e0)
+&childargv[1]: 13284 (0x33e4)
+&childargv[2]: 13288 (0x33e8)
+&childargv[3]: 13292 (0x33ec)
+&childargv[4]: 13296 (0x33f0)
+childargv[0]: 3072 (0xc00)
+childargv[1]: 3084 (0xc0c)
+childargv[2]: 3100 (0xc1c)
+childargv[3]: 3120 (0xc30)
+childargv[4]: 3136 (0xc40)
+exec succeded, child pid 1
+
+success
+
+--[ Test except1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+roses are red
+violets are blue
+I love Nachos
+and so do you
+
+
+success
+
+--[ Test exit1.c ]--
+nachos 5.0j initializing... config interrupt timer processor console user-check grader
+
+success
+
+

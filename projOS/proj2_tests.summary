@@ -1,0 +1,7 @@
+------[                  Fri Jun  7 15:47:33 2019                  ]------
+------[  Grading Commit: 43b5c95325bfb9d2d0a3688a7ab3078d40963d79  ]------
+FAIL : Test write10.c
+PASS : read-long: Test reading large amount from file
+PASS : write-long: Test writing large amount to file
+PASS : exec2: Execute multiple programs (three children)
+

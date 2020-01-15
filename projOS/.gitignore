@@ -1,0 +1,5 @@
+nachos/proj*/nachos
+nachos/test*
+*.classpath
+*.project
+cse120_files
