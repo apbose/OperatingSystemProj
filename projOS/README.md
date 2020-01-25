@@ -1,4 +1,4 @@
-# CSE120
+
 Members:
 - Manjot Singh Bilkhu
 - Harshul Gupta
